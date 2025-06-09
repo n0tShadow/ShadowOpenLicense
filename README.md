@@ -1,0 +1,2 @@
+# ShadowOpenLicense
+Shadow license.
